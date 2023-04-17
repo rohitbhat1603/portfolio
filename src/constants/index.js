@@ -4,17 +4,13 @@ import {
     creator,
     web,
     javascript,
-    typescript,
     html,
     css,
     reactjs,
-    redux,
     tailwind,
     nodejs,
     mongodb,
     git,
-    figma,
-    docker,
     meta,
     starbucks,
     tesla,
@@ -23,6 +19,7 @@ import {
     jobit,
     tripguide,
     threejs,
+    bootstrap,
   } from "../assets";
   
   export const navLinks = [
@@ -46,15 +43,15 @@ import {
       icon: web,
     },
     {
-      title: "React Native Developer",
+      title: "React Developer",
       icon: mobile,
     },
     {
-      title: "Backend Developer",
+      title: "Cyber Security Student",
       icon: backend,
     },
     {
-      title: "Content Creator",
+      title: "Content Writer",
       icon: creator,
     },
   ];
@@ -69,20 +66,16 @@ import {
       icon: css,
     },
     {
+      name: "BootStrap",
+      icon: bootstrap,
+    },
+    {
       name: "JavaScript",
       icon: javascript,
     },
     {
-      name: "TypeScript",
-      icon: typescript,
-    },
-    {
       name: "React JS",
       icon: reactjs,
-    },
-    {
-      name: "Redux Toolkit",
-      icon: redux,
     },
     {
       name: "Tailwind CSS",
@@ -103,14 +96,6 @@ import {
     {
       name: "git",
       icon: git,
-    },
-    {
-      name: "figma",
-      icon: figma,
-    },
-    {
-      name: "docker",
-      icon: docker,
     },
   ];
   
