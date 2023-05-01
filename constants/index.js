@@ -21,7 +21,9 @@ import {
     collegepick,
     ecommerce,
     threejs,
+    slowloris,
     bootstrap,
+    bips,
   } from "../assets";
   
   export const navLinks = [
@@ -30,12 +32,12 @@ import {
       title: "About",
     },
     {
-      id: "projects",
-      title: "Projects",
-    },
-    {
       id: "work",
       title: "Education",
+    },
+    {
+      id: "projects",
+      title: "Projects",
     },
     {
       id: "contact",
@@ -113,7 +115,8 @@ import {
       iconBg: "#383E56",
       date: "June 2020 - Present",
       points: [
-        "Acquired knowledge of core computer topics like DBMS, OS, CN.",
+        "Current CGPA: 8.84",
+        "Acquired knowledge of core computer subjects like DBMS, OS, CN.",
         "Collaborating with team members for hackathons to create various applications.",
         "Gaining knowledge of cyber security and digital forensics.",
         "Creating various academic and individual projects.",
@@ -126,23 +129,20 @@ import {
       iconBg: "#E6DEDD",
       date: "June 2018 - May 2020",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "93.9% in Telangana State Board of Intermediatory Education",
+        "Senior Grade Tabla Artist with 5+ years of learning.",
       ],
     },
     {
       title: "Basaveshwar International Public School, Bagalkot",
       company_name: "Class 10th",
-      icon: shopify,
+      icon: bips,
       iconBg: "#383E56",
       date: "June 2017 - May 2018",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Academic Excellency with 93% in CBSE X Board examinations",
+        "Participated in Karnataka State level Basketball tournament, Inter-CBSE Cluster matches.",
+        
       ],
     },
   ];
@@ -195,7 +195,7 @@ import {
       ],
       image: mathematicia,
       source_code_link: "https://github.com/rohitbhat1603/TA_Invictus",
-      website_link: "https:google.com",
+      website_link: "https://rohitbhat1603.github.io/Mathematicia/",
     },
     {
       name: "College Pick",
@@ -217,6 +217,7 @@ import {
       ],
       image: collegepick,
       source_code_link: "https://github.com/rohitbhat1603/DevFest2.O",
+      website_link:"https://rohitbhat1603.github.io/DevFest2.O/",
     },
     {
       name: "Swasthyam",
@@ -238,6 +239,7 @@ import {
       ],
       image: swasthyam,
       source_code_link: "https://github.com/rohitbhat1603/Swasthyam",
+      website_link:"https://rohitbhat1603.github.io/Swasthyam/",
     },
     {
       name: "RoStore",
@@ -259,6 +261,7 @@ import {
       ],
       image: ecommerce,
       source_code_link: "https://github.com/rohitbhat1603/strapi-deployment",
+      website_link:"https://github.com/rohitbhat1603/strapi-deployment",
     },
     {
       name: "Slowloris DOS Prevention",
@@ -278,8 +281,9 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: ecommerce,
+      image: slowloris,
       source_code_link: "https://github.com/rohitbhat1603/DOS_Prevention---Project-Exhibition-1",
+      website_link: "https://github.com/rohitbhat1603/DOS_Prevention---Project-Exhibition-1",
     },
   ];
   
