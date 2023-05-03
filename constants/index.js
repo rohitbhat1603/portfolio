@@ -11,11 +11,8 @@ import {
     nodejs,
     mongodb,
     git,
-    meta,
     vit,
-    starbucks,
     fiitjee,
-    shopify,
     swasthyam,
     mathematicia,
     collegepick,
@@ -32,12 +29,12 @@ import {
       title: "About",
     },
     {
-      id: "work",
-      title: "Education",
-    },
-    {
       id: "projects",
       title: "Projects",
+    },
+    {
+      id: "work",
+      title: "Education",
     },
     {
       id: "contact",
@@ -55,7 +52,7 @@ import {
       icon: mobile,
     },
     {
-      title: "Cyber Security Student",
+      title: "Cyber Security Enthusiast",
       icon: backend,
     },
     {
@@ -261,7 +258,7 @@ import {
       ],
       image: ecommerce,
       source_code_link: "https://github.com/rohitbhat1603/strapi-deployment",
-      website_link:"https://github.com/rohitbhat1603/strapi-deployment",
+      
     },
     {
       name: "Slowloris DOS Prevention",
@@ -283,7 +280,7 @@ import {
       ],
       image: slowloris,
       source_code_link: "https://github.com/rohitbhat1603/DOS_Prevention---Project-Exhibition-1",
-      website_link: "https://github.com/rohitbhat1603/DOS_Prevention---Project-Exhibition-1",
+      
     },
   ];
   
