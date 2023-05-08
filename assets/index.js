@@ -6,6 +6,7 @@ import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
+import click from "./click.png";
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -22,15 +23,16 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 import bootstrap from "./tech/bootstrap.png";
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+import fiitjee from "./company/fiitjee.png";
+import vit from "./company/vit.jpg";
+import bips from "./company/bips.png";
 
 import mathematicia from "./mathematicia.png";
 import collegepick from "./collegepick.png";
 import ecommerce from "./ecommerce.png";
 import swasthyam from "./swasthyam.png";
+import slowloris from "./slowloris.png";
+
 
 
 export {
@@ -55,14 +57,15 @@ export {
   tailwind,
   typescript,
   threejs,
-  meta,
-  shopify,
-  starbucks,
-  tesla,
+  fiitjee,
   swasthyam,
   mathematicia,
   collegepick,
   ecommerce,
   bootstrap,
+  click,
+  slowloris,
+  vit,
+  bips,
 };
 
